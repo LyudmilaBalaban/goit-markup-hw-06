@@ -584,7 +584,10 @@ address .link:focus {
 .footer-thumb {
   display: flex;
   align-items: baseline;
-  gap: 70px;
+}
+
+.address-thumb {
+  margin-right: 70px;
 }
 
 .footer-text {
